@@ -1,0 +1,19 @@
+{
+    "name": "kononova-daria/lrv-hw",
+    "description": "laravel homework",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KononovaDaria\\LrvHw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kononova Daria",
+            "email": "kononova.yu.daria@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
